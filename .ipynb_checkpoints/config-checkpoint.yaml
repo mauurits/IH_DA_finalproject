@@ -11,3 +11,4 @@ data:
     file2: "../data/clean/inventory_clean.csv"
     file3: "../data/clean/value_1997-2020_clean.csv"
     file4: "../data/clean/value_2019-2024_clean.csv"
+    file5: "../data/clean/values_joined_clean.csv"
