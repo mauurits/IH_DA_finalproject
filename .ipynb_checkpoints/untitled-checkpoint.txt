@@ -1,0 +1,4 @@
+data:
+  raw:
+    file1: "../data/raw/filename.csv"
+    file2: "

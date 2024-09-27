@@ -1,0 +1,13 @@
+data:
+  raw:
+    file1: "../data/raw/inventory_2012-2023.csv"
+    file2: "../data/raw/value_2019-2024.csv"
+    file3: "../data/raw/value_1997-2020.csv"
+    file4: "../data/raw/24-uitdraai-database-aardbevingen-atabix.csv"
+    file5: "../data/raw/filename2.csv"
+
+  clean:
+    file1: "../data/clean/earthquake_data_clean.csv"
+    file2: "../data/clean/inventory_clean.csv"
+    file3: "../data/clean/value_1997-2020_clean.csv"
+    file4: "../data/clean/value_2019-2024_clean.csv"
