@@ -8,7 +8,8 @@ data:
 
   clean:
     file1: "../data/clean/earthquake_data_clean.csv"
-    file2: "../data/clean/inventory_clean.csv"
+    file2: "../data/clean/inventory_clean_redundant.csv"
     file3: "../data/clean/value_1997-2020_clean.csv"
     file4: "../data/clean/value_2019-2024_clean.csv"
     file5: "../data/clean/values_joined_clean.csv"
+    file6: "../data/clean/values_pivotedback.csv"
