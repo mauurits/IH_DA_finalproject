@@ -13,3 +13,4 @@ data:
     file4: "../data/clean/value_2019-2024_clean.csv"
     file5: "../data/clean/values_joined_clean.csv"
     file6: "../data/clean/values_pivotedback.csv"
+    file7: "../data/clean/combined_df_value+inventory.csv"
